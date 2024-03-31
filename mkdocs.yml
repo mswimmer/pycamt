@@ -1,8 +1,7 @@
 site_name: pycamt
 repo_url: https://github.com/ODAncona/pycamt
 site_url: https://ODAncona.github.io/pycamt
-site_description: A Python Module for CAMT.053 XML File Parsing
-Overview: Pycamt is a flexible and extensible Python class designed to parse CAMT.053 XML files, which are used for bank-to-customer account report messages in the financial industry. The parser supports multiple versions of the CAMT.053 standard, making it a versatile tool for extracting financial transaction data.
+site_description: Pycamt is a flexible and extensible Python class designed to parse CAMT.053 XML files, which are used for bank-to-customer account report messages in the financial industry. The parser supports multiple versions of the CAMT.053 standard, making it a versatile tool for extracting financial transaction data.
 site_author: Olivier D'Ancona
 edit_uri: edit/main/docs/
 repo_name: ODAncona/pycamt
