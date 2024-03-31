@@ -1,7 +1,7 @@
 [tool.poetry]
 name = "pycamt"
 version = "0.0.1"
-description = "<replaceme>"
+description = "Camt053Parser is a flexible and extensible Python class designed to parse CAMT.053 XML files, which are used for bank-to-customer account report messages in the financial industry. The parser supports multiple versions of the CAMT.053 standard, making it a versatile tool for extracting financial transaction data."
 authors = ["Olivier D'Ancona <folivier_dancona@hotmail.com>"]
 repository = "https://github.com/ODAncona/pycamt"
 documentation = "https://ODAncona.github.io/pycamt/"

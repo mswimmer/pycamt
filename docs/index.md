@@ -1,4 +1,4 @@
-# pycamt
+# Pycamt
 
 [![Release](https://img.shields.io/github/v/release/ODAncona/pycamt)](https://img.shields.io/github/v/release/ODAncona/pycamt)
 [![Build status](https://img.shields.io/github/actions/workflow/status/ODAncona/pycamt/main.yml?branch=main)](https://github.com/ODAncona/pycamt/actions/workflows/main.yml?query=branch%3Amain)
@@ -9,15 +9,11 @@ CAMT (Cash Management) is a set of bank statement messages defined by ISO 20022,
 
 The camt.053 is a detailed bank to customer statement listing all entries booked on the customer’s bank account on a given day. It can be considered an alternative (or replacement) of the less structured MT 940 bank file.
 
-[https://docs.findock.com/processing-camt-053-files#:~:text=The%20camt.,structured%20MT%20940%20bank%20file.](Documentation)
-
-test
-
-# Camt053Parser Documentation
-
 ## Overview
 
-Camt053Parser is a flexible and extensible Python class designed to parse CAMT.053 XML files, which are used for bank-to-customer account report messages in the financial industry. The parser supports multiple versions of the CAMT.053 standard, making it a versatile tool for extracting financial transaction data.
+Pycamt is a flexible and extensible Python class designed to parse CAMT.053 XML files, which are used for bank-to-customer account report messages in the financial industry. The parser supports multiple versions of the CAMT.053 standard, making it a versatile tool for extracting financial transaction data.
+
+[https://docs.findock.com/processing-camt-053-files#:~:text=The%20camt.,structured%20MT%20940%20bank%20file.](Documentation)
 
 ## Installation
 
