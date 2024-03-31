@@ -1,6 +1,8 @@
 GNU GENERAL PUBLIC LICENSE
                       Version 3, 29 June 2007
 
+    Pycamt is a flexible and extensible Python class designed to parse CAMT.053 XML files, which are used for bank-to-customer account report messages in the financial industry. The parser supports multiple versions of the CAMT.053 standard, making it a versatile tool for extracting financial transaction data.
+
     Copyright (C) 2024  Olivier D'Ancona
 
     This program is free software: you can redistribute it and/or modify
