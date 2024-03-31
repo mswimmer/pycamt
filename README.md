@@ -6,8 +6,6 @@
 [![Commit activity](https://img.shields.io/github/commit-activity/m/ODAncona/pycamt)](https://img.shields.io/github/commit-activity/m/ODAncona/pycamt)
 [![License](https://img.shields.io/github/license/ODAncona/pycamt)](https://img.shields.io/github/license/ODAncona/pycamt)
 
-<replaceme>
-
 - **Github repository**: <https://github.com/ODAncona/pycamt/>
 - **Documentation** <https://ODAncona.github.io/pycamt/>
 
