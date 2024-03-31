@@ -72,3 +72,12 @@ jobs:
 
       - name: Check if documentation can be built
         run: poetry run mkdocs build -s
+
+  coverage:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Upload coverage reports to Codecov
+        uses: codecov/codecov-action@v4.0.1
+        with:
+          token: ${{ secrets.CODECOV_TOKEN }}
+          slug: ODAncona/pycamt
